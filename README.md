@@ -6,7 +6,7 @@
 
 ## 📦 Download
 
-👉 [Download WorkoutApp APK](apk/WorkoutApp.apk)
+👉 [Download WorkoutApp APK](./WorkoutApp.apk)
 
 ---
 
